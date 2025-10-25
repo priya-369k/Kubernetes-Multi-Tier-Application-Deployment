@@ -10,7 +10,8 @@ Production-grade deployment of a multi-tier Java web application (V Profile) on 
 
 ## Architecture
 
-![Architecture Diagram](docs/images/architecture-diagram.png)
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/c6392a5a-1001-4caa-81d4-5c94214409df" />
+
 
 The application follows a microservices-based architecture with the following components:
 
