@@ -1,1 +1,1 @@
-ff
+Production-grade deployment of a multi-tier Java web application (V Profile) on Kubernetes cluster using **kops** for AWS infrastructure provisioning. This project demonstrates enterprise-level container orchestration, stateful application management, and cloud-native architecture implementation.
