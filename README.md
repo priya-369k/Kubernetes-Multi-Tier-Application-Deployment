@@ -55,12 +55,12 @@ Before deploying this project, ensure you have:
 
 ### Required IAM Permissions
 
-AmazonEC2FullAccess
+- AmazonEC2FullAccess
 
-AmazonRoute53FullAccess
+- AmazonRoute53FullAccess
 
-AmazonS3FullAccess
+- AmazonS3FullAccess
 
-IAMFullAccess
+- IAMFullAccess
 
-AmazonVPCFullAccess
+- AmazonVPCFullAccess
